@@ -3,4 +3,4 @@
 - "Everyday is Sunday!"
 <br>
 
-![my-icon_v7_white green](https://user-images.githubusercontent.com/97812989/204797977-ac9fba52-aae9-48e1-b153-56a59a4ba299.png)
+![my-icon_v8-blue-light](https://user-images.githubusercontent.com/97812989/211234209-a86f680c-c3ef-4af1-819f-ff42b66d9b4c.png)
